@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="fabric:/IRM.HRM" xmlns="http://schemas.microsoft.com/2011/01/fabric">
+  <Parameters>
+    <Parameter Name="Training.API_InstanceCount" Value="-1" />
+    <Parameter Name="Remuneration.API_InstanceCount" Value="-1" />
+    <Parameter Name="Recruitment.API_InstanceCount" Value="-1" />
+    <Parameter Name="Competence.API_InstanceCount" Value="-1" />
+    <Parameter Name="Coaching.API_InstanceCount" Value="-1" />
+    <Parameter Name="Career.API_InstanceCount" Value="-1" />
+    <Parameter Name="Assessment.API_InstanceCount" Value="-1" />
+    <Parameter Name="Training.DAL_InstanceCount" Value="-1" />
+    <Parameter Name="Training.BLL_InstanceCount" Value="-1" />
+    <Parameter Name="Recruitment.DAL_InstanceCount" Value="-1" />
+    <Parameter Name="Recruitment.BLL_InstanceCount" Value="-1" />
+    <Parameter Name="Assessment.DAL_InstanceCount" Value="-1" />
+    <Parameter Name="Assessment.BLL_InstanceCount" Value="-1" />
+    <Parameter Name="Remuneration.DAL_InstanceCount" Value="-1" />
+    <Parameter Name="Remuneration.BLL_InstanceCount" Value="-1" />
+  </Parameters>
+</Application>
